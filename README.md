@@ -13,7 +13,7 @@
   - 📲 Meditation UI Page with Jetpack Compose
 ---
 
-## 🤝 Let’s Connect!
+## 🤝 Contact me!
 
 [<img alt="KerlosMelad | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
