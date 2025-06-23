@@ -14,12 +14,10 @@
 
 ## 🤝 Let’s Connect!
 
-[<img alt="KerlosMelad | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img alt="KerlosMelad | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img alt="WhatsApp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
-[youtube]: https://www.youtube.com/@Eng_Kerlos_Melad  
 [linkedin]: https://linkedin.com/in/kerlos-melad
 [gmail]: mailto:kerlosmelad777@gmail.com
 [whatsapp]: https://wa.me/201211329041
