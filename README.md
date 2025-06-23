@@ -9,8 +9,8 @@
 ## 👨‍💻 Android Development Projects
 
 - **Kotlin**
-  - 📲 Instagram UI Profile Page with Jetpack Compose
-  - 📲 Meditation UI Page with Jetpack Compose
+  - 📱 [Instagram UI Profile Page with Jetpack Compose](https://github.com/KerlosMelad7/Kerlos_Portfolio/tree/Instagram-UI)
+  - 📱 [Meditation UI Page with Jetpack Compose](https://github.com/KerlosMelad7/Kerlos_Portfolio/tree/meditation-UI)
 ---
 
 ## 🤝 Contact me!
