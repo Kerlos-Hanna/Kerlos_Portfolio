@@ -1,7 +1,7 @@
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
-    id("org.jetbrains.kotlin.plugin.compose") version "2.0.0" // this version matches your Kotlin version
+    id("org.jetbrains.kotlin.plugin.compose") version "2.0.0"
 }
 
 android {
@@ -48,6 +48,10 @@ android {
             excludes += "/META-INF/{AL2.0,LGPL2.1}"
         }
     }
+
+    viewBinding {
+        enable = true
+    }
 }
 
 dependencies {
@@ -77,4 +81,17 @@ dependencies {
     implementation(libs.core.v1951)
 
     implementation (libs.androidx.constraintlayout.compose)
+    implementation(libs.androidx.paging.runtime)
+    implementation(libs.androidx.paging.compose)
+
+    implementation (libs.material3)
+    implementation (libs.androidx.appcompat)
+    implementation(kotlin("script-runtime"))
+
+    implementation(libs.androidx.lifecycle.viewmodel.compose)
+    implementation(libs.androidx.lifecycle.runtime.compose)
+
+    implementation (libs.colorpicker.compose)
+
+    implementation (libs.drawbox)
 }
