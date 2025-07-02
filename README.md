@@ -22,7 +22,7 @@
 [<img alt="WhatsApp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
 [linkedin]: https://linkedin.com/in/kerlos-melad
-[gmail]: mailto:kerlosmelad777@gmail.com
+[gmail]: mailto:kerloshanna.eng@gmail.com
 [whatsapp]: https://wa.me/201211329041
 
 <!-- Optional fun fact or emoji section -->
