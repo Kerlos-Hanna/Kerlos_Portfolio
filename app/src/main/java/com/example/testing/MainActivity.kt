@@ -2,7 +2,6 @@ package com.example.testing
 
 import android.graphics.Bitmap
 import android.os.Bundle
-import android.widget.Toast
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.background
@@ -45,8 +44,6 @@ import androidx.compose.ui.unit.sp
 import com.github.skydoves.colorpicker.compose.AlphaTile
 import com.github.skydoves.colorpicker.compose.HsvColorPicker
 import com.github.skydoves.colorpicker.compose.rememberColorPickerController
-import java.io.File
-import java.io.FileOutputStream
 
 class MainActivity : ComponentActivity() {
 
@@ -205,7 +202,7 @@ class MainActivity : ComponentActivity() {
                     ImagePicker(bitMap , imagePicked)
                 }
 
-                Row(modifier = Modifier.fillMaxWidth()){
+                Row(modifier = Modifier.fillMaxWidth() , horizontalArrangement = Arrangement.Center){
                     Button(
                         onClick = {
                             imagePicked.value = true
@@ -224,42 +221,6 @@ class MainActivity : ComponentActivity() {
                         modifier = Modifier.scale(0.9f , 0.9f)
                     ) {
                         Text(text = "Delete Image")
-                    }
-
-                    Button(
-                        onClick = {
-                            bitMap.value?.let {
-                                val fileOutputStream: FileOutputStream
-                                val imagePathFile: File?
-                                val root = getExternalFilesDir(null)?.absolutePath
-
-                                val myDir = File("$root/Drawing")
-
-                                if(!myDir.exists()){
-                                    myDir.mkdirs()
-                                }
-
-                                val fileName = "ImageFromDrawingApp-" + System.currentTimeMillis() + ".jpeg"
-                                imagePathFile = File(myDir , fileName)
-
-                                fileOutputStream = FileOutputStream(imagePathFile)
-
-                                bitMap.value?.compress(Bitmap.CompressFormat.JPEG , 100 , fileOutputStream)
-
-                                Toast.makeText(
-                                    this@MainActivity,
-                                    "Image is saved successfully",
-                                    Toast.LENGTH_SHORT
-                                ).show()
-
-                                fileOutputStream.flush()
-                                fileOutputStream.close()
-                            }
-                        },
-
-                        modifier = Modifier.scale(0.9f , 0.9f)
-                    ) {
-                        Text(text = "Save Image")
                     }
                 }
             }
