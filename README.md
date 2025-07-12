@@ -41,3 +41,8 @@ val client = createSupabaseClient(
 ) {
     install(Storage)
 }
+```
+
+## 📸 Screenshots
+
+<img src="https://github.com/KerlosMeladHanna/Kerlos_Portfolio/blob/Countries-Flags-Quiz-App/homePage.jpg?raw=true" width="200"/>  <img src="https://github.com/KerlosMeladHanna/Kerlos_Portfolio/blob/Countries-Flags-Quiz-App/quiz%20game%201.jpg?raw=true" width="200"/> <img src="https://github.com/KerlosMeladHanna/Kerlos_Portfolio/blob/Countries-Flags-Quiz-App/quiz%20game%202.jpg?raw=true" width="200"/> <img src="https://github.com/KerlosMeladHanna/Kerlos_Portfolio/blob/Countries-Flags-Quiz-App/result%20page.jpg?raw=true" width="200"/>
