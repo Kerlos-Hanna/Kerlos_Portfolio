@@ -1,6 +1,6 @@
-# Chatter App 💬
+# Chat Application 💬
 
-This is a personal project for practicing video calls, Firebase, and Supabase integration in Android using Jetpack compose with Kotlin.
+This project is for practicing video calls, messaging, Firebase, and Supabase integration in Android using Jetpack compose with Kotlin.
 
 ---
 
@@ -45,4 +45,4 @@ val client = createSupabaseClient(
 
 ## 📸 Screenshots
 
-<img src="https://github.com/KerlosMeladHanna/Kerlos_Portfolio/blob/Countries-Flags-Quiz-App/homePage.jpg?raw=true" width="200"/>  <img src="https://github.com/KerlosMeladHanna/Kerlos_Portfolio/blob/Countries-Flags-Quiz-App/quiz%20game%201.jpg?raw=true" width="200"/> <img src="https://github.com/KerlosMeladHanna/Kerlos_Portfolio/blob/Countries-Flags-Quiz-App/quiz%20game%202.jpg?raw=true" width="200"/> <img src="https://github.com/KerlosMeladHanna/Kerlos_Portfolio/blob/Countries-Flags-Quiz-App/result%20page.jpg?raw=true" width="200"/>
+<img src="https://github.com/Kerlos-Hanna/Kerlos_Portfolio/blob/Chat-App/SignInPage.jpg?raw=true" width="200"/>  <img src="https://github.com/Kerlos-Hanna/Kerlos_Portfolio/blob/Chat-App/SignUpPage.jpg?raw=true" width="200"/> <img src="https://github.com/Kerlos-Hanna/Kerlos_Portfolio/blob/Chat-App/SignUpPage2.jpg?raw=true" width="200"/> <img src="https://github.com/Kerlos-Hanna/Kerlos_Portfolio/blob/Chat-App/Channel0.jpg?raw=true" width="200"/> <img src="https://github.com/Kerlos-Hanna/Kerlos_Portfolio/blob/Chat-App/AddingChannel.jpg?raw=true" width="200"/>  <img src="https://github.com/Kerlos-Hanna/Kerlos_Portfolio/blob/Chat-App/Channel1.jpg?raw=true" width="200"/> <img src="https://github.com/Kerlos-Hanna/Kerlos_Portfolio/blob/Chat-App/EmptyChat.jpg?raw=true" width="200"/> <img src="https://github.com/Kerlos-Hanna/Kerlos_Portfolio/blob/Chat-App/SentMessage.jpg?raw=true" width="200"/> <img src="https://github.com/Kerlos-Hanna/Kerlos_Portfolio/blob/Chat-App/SentImage.jpg?raw=true" width="200"/> <img src="https://github.com/Kerlos-Hanna/Kerlos_Portfolio/blob/Chat-App/Notification.jpg?raw=true" width="200"/>
