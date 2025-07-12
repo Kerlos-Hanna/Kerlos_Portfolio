@@ -83,7 +83,7 @@ class FirebaseMessageService: FirebaseMessagingService() {
     }
 
     private fun getAccessToken(context: Context): String{
-        val inputStream = context.resources.openRawResource(R.raw.chatter)
+        val inputStream = context.resources.openRawResource(R.raw.chatter) //download from FireBase Console
         val googleCredentials = GoogleCredentials.fromStream(inputStream)
             .createScoped(listOf("https://www.googleapis.com/auth/firebase.messaging"))
 
