@@ -22,8 +22,8 @@
 [<img alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img alt="WhatsApp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
-[linkedin]: https://linkedin.com/in/kerlos-melad
-[gmail]: mailto:kerloshanna.eng@gmail.com
+[linkedin]: https://www.linkedin.com/in/kerlos-hanna
+[gmail]: mailto:kerloshanna03@gmail.com
 [whatsapp]: https://wa.me/201211329041
 
 <!-- Optional fun fact or emoji section -->
