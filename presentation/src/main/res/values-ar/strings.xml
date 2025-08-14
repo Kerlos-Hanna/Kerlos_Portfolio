@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">المتجر</string>
+    <string name="name">الاسم</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="password">الرقم السري</string>
+    <string name="sign_up">تسجيل</string>
+    <string name="already_have_an_account">اتملك بريد بالفعل ؟ تسجيل دخول</string>
+    <string name="do_not_have_an_account">لا تملك بريد؟ تسجيل</string>
+    <string name="sign_in">تسجيل دخول</string>
+</resources>
