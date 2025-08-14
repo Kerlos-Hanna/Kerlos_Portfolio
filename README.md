@@ -14,6 +14,7 @@
   - 📱 [Country Flags Quiz with Jetpack Compose](https://github.com/KerlosMelad7/Kerlos_Portfolio/tree/Countries-Flags-Quiz-App)
   - 📱 [Drawing App with Jetpack Compose](https://github.com/KerlosMelad7/Kerlos_Portfolio/tree/Drawing-App)
   - 📱 [Chatting App with Jetpack Compose](https://github.com/KerlosMelad7/Kerlos_Portfolio/tree/Chat-App)
+  - 📱 [E-Commerce App with Jetpack Compose](https://github.com/KerlosMelad7/Kerlos_Portfolio/tree/E-Commerce-App)
 ---
 
 ## 🤝 Contact me!
