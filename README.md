@@ -2,7 +2,7 @@
 
 🎓 Computer and Systems Engineering Department Student at Ain Shams University <br>
 🎓 GPA: 3.16 <br>
-📱 Passionate Flutter App Developer | Lifelong Learner | Team Worker <br>
+📱 Passionate Android App Developer | Lifelong Learner | Team Worker <br>
 
 ---
 
